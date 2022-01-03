@@ -297,4 +297,4 @@ regulator_register里看到代码如下
  
 ```
 
-[回到页首](index.md)
+[回到页首](../index.md)

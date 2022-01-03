@@ -32,4 +32,4 @@ linux_source/driver/base/power/main.c
 （4）Resume。
       如果在休眠中系统被中断或者其他事件唤醒，接下来的代码就会开始执行，这个唤醒的顺序是和休眠的顺序相反的，所以系统设备和总线会首先唤醒，使能系统中断，使能休眠时候停止掉的非启动CPU，以及调用suspend_ops->finish()，而且在suspend_devices_and_enter()函数中也会继续唤醒每个设备，使能虚拟终端。最后调用 suspend_ops->end()。再返回到enter_state()函数中的，当suspend_devices_and_enter()  返回以后，外设已经唤醒了，但是进程和任务都还是冻结状态，这里会调用suspend_finish()来解冻这些进程和任务，而且发出Notify来表示系统已经从suspend状态退出，唤醒终端。到这里，所有的休眠和唤醒就已经完毕了，系统继续运行了。
       
-[回到页首](index.md)
+[回到页首](../index.md)
