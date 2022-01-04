@@ -6,6 +6,10 @@
 
 ## Linux
 
+1. [rsync同步目录](linuxsummary/first.md)   
+
+2. [Linux内核regulator架构和编写](./linuxsummary/second.md)   
+
 <details>
 <summary>Linux散记</summary>
 
