@@ -42,6 +42,7 @@
 8. [Ubuntu14.04 下载 & 编译 Android5.1 源码](./AOSP/Ubuntu14.04&#32;下载&#32;&&#32;编译&#32;Android5.1&#32;源码.md)   
 10. [安卓ro.build.fingerprint cannot exceed 91 bytes](./AOSP/安卓ro.build.fingerprint&#32;cannot&#32;exceed&#32;91&#32;bytes.md)   
 11. [编译Android源代码常见错误解决办法.](./AOSP/编译Android源代码常见错误解决办法.md)   
+
 ### 安卓编译与环境问题
 
 1. [Android 编译SDK 问题汇总](./编译问题&环境/Android&#32;编译SDK&#32;问题汇总.md)   
@@ -56,6 +57,7 @@
 ### MediaTek
 
 1. [ubuntu20.04编译MT8788](./MediaTek/ubuntu20.04编译MT8788.md)   
+
 ### Genymotion
 
 1. [Android genymotion模拟器怎么使用以及和google提供的模拟器性能对比](./Genymotion/Android&#32;genymotion模拟器怎么使用以及和google提供的模拟器性能对比.md)   
@@ -63,6 +65,7 @@
 3. [AndroidX86 ARM兼容探讨](./Genymotion/AndroidX86&#32;ARM兼容探讨.md)                                
 4. [AndroVM blog](./Genymotion/AndroVM&#32;blog.md)      
 5. [How to Run Android Apps in Linux with AndroVM](./Genymotion/How&#32;to&#32;Run&#32;Android&#32;Apps&#32;in&#32;Linux&#32;with&#32;AndroVM.md)   
+
 ### CyanogenMod
 
 1. [CyanogenMod源码下载和编译(Android ROM定制基础篇)](./CyanogenMod/CyanogenMod源码下载和编译&#40;Android&#32;ROM定制基础篇&#41;.md)   
@@ -72,25 +75,30 @@
 
 1. [MoKee OpenSource项目介绍及开发流程 V1.2 Build 2013-05-07－Mo](./Mokee/MoKee&#32;OpenSource项目介绍及开发流程&#32;V1.2&#32;Build&#32;2013-05-07－Mo.md)   
 2. [MoKee OpenSource _ Android Community Rom](./Mokee/MoKee&#32;OpenSource&#32;&#95;&#32;Android&#32;Community&#32;Rom.md)   
+
 ### 网易Mumu模拟器
 
 1. [网易MuMu模拟器怎么安装Google Play](./网易Mumu模拟器/网易MuMu模拟器怎么安装Google&#32;Play.md)   
+
 ### FreeScale
 
 1. [Qualcomm，Freescale，MTK平台下Android开发的比较](./Freescale/Qualcomm，Freescale，MTK平台下Android开发的比较.md)   
 2. [飞思卡尔i.MX 6Quad Android 4.2.2的LVDS屏幕驱动移植](./Freescale/飞思卡尔i.MX&#32;6Quad&#32;Android&#32;4.2.2的LVDS屏幕驱动移植.md)   
+
 ### 小米
 
 1. [小技能也可以月入过万，秘密就是技能进化](./小米/小技能也可以月入过万，秘密就是技能进化.md)                                
 2. [小米Mesh分布式路由器如何评价？真实的体验如何？](./小米/小米Mesh分布式路由器如何评价？真实的体验如何？&#32;-&#32;知乎.md)   
 3. [小米Note 10 評測：難怪可以殺下華為Mate 30](./小米/小米Note&#32;10&#32;評測：難怪可以殺下華為Mate&#32;30.md)             
 4. [小米将推 6400 万像素手机，1 亿像素也在路上了](./小米/小米将推&#32;6400&#32;万像素手机，1&#32;亿像素也在路上了&#32;_&#32;最前线.md)  
+
 ### GooglePlay开发
 
 1. [Google Play 如何注册开发者账号（含收款设置）](./GooglePlay开发/Google&#32;Play&#32;如何注册开发者账号（含收款设置）&#32;&#45;&#32;掘金.md)                                 
 2. [Google Play开发者账号注册与失败申诉攻略](./GooglePlay开发/Google&#32;Play开发者账号注册与失败申诉攻略.md)                                         
 3. [Google Play收费应用的几点说明](./GooglePlay开发/Google&#32;Play收费应用的几点说明&#32;&#45;&#32;&#32;白鲸出海.md)                                      
 4. [美国净网行动？远程注册家美国公司，合规运营你的 app](./GooglePlay开发/美国净网行动？远程注册家美国公司，合规运营你的&#32;app.md)                                       
+
 ### 电视盒子破解
 
 1. [不破解中兴B860A，安装程序](./电视盒子破解/不破解中兴B860A，安装程序.md)  
