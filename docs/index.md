@@ -70,6 +70,45 @@
 1. [Teamviewer Quick Support在电脑上远程连接控制手机的软件](./winApps/TeamviewerQuickSupport在电脑上远程连接控制手机的软件.md)
 
 ***
+## Apple
+
+### Apple硬件
+
+1. [AppleWatchECG自己開通海外版本](./Apple/AppleWatchECG自己開通海外版本.md)
+1. [ApplePay正式支持香港八达通Octopus公交卡](./Apple/ApplePay正式支持香港八达通Octopus公交卡.md)
+1. [ApplePay苹果iPhone正式支持香港八达通](./Apple/ApplePay苹果iPhone正式支持香港八达通.md)
+1. [ApplePencil功能使用全面教程](./Apple/ApplePencil功能使用全面教程.md)
+1. [CarPlay有助通用提高销量](./Apple/CarPlay有助通用提高销量.md)
+1. [无线蓝牙鼠标在iPad上使用iPhone也支持吗](./Apple/无线蓝牙鼠标在iPad上使用iPhone也支持吗.md)
+1. [iOS11或更高版本的iPhone、iPad](./Apple/iOS11或更高版本的iPhoneiPad.md)
+1. [iOS12升级后蜂窝网络信号依旧差](./Apple/iOS12升级后蜂窝网络信号依旧差.md)
+1. [新iPhone预售时间曝光了iPhone11更便宜了](./Apple/新iPhone预售时间曝光了iPhone11更便宜了.md)
+1. [iPadOS131连接鼠标键盘扩展坞用法说明](./Apple/iPadOS131连接鼠标键盘扩展坞用法说明.md)
+1. [iPadPro+ApplePencil适合做笔记吗](./Apple/iPadProApplePencil适合做笔记吗.md)
+1. [ipad的触控笔选择](./Apple/ipad的触控笔选择.md)
+1. [iPhoneXS及美版日版iPhoneXS/Max/XR开通eSIM双卡教程](./Apple/iPhoneXS及美版日版iPhoneXSMaxXR开通eSIM双卡教程.md)
+1. [PD快充到底有没有iPadmini充电测试](./Apple/PD快充到底有没有iPadmini充电测试.md)
+1. [WatchOS5心电图ecg激活教程](./Apple/WatchOS5心电图ecg激活教程.md)
+
+### Apple软件
+
+1. [博看书苑机构账号大全](./Apple/博看书苑机构账号大全.md)
+1. [安装MACOS系统看完后能让你马上用上最新苹果系统](./Apple/安装MACOS系统看完后能让你马上用上最新苹果系统.md)
+1. [实用至上十款免费iPad软件推荐及iPad2018简评](./Apple/实用至上十款免费iPad软件推荐及iPad2018简评.md)
+1. [手写笔记神器MyscriptNebo限免中](./Apple/手写笔记神器MyscriptNebo限免中.md)
+1. [扫描应用专题把扫描这事给办了](./Apple/扫描应用专题把扫描这事给办了.md)
+1. [ScannerPro扫描仪中的战斗机](./Apple/ScannerPro扫描仪中的战斗机.md)
+1. [SleepAppleWatch上最好的免费睡眠监测App](./Apple/SleepAppleWatch上最好的免费睡眠监测App.md)
+1.  [有什么app对于applePencil来说体验很好](./Apple/有什么app对于applePencil来说体验很好.md)
+1. [有道云笔记iPad版升级新增手写功能](./Apple/有道云笔记iPad版升级新增手写功能.md)
+1. [让iPad物尽其用大学生的APP清单分享](./Apple/让iPad物尽其用大学生的APP清单分享.md)
+1. [iOS13.2杀后台问题非但没改善反而变严重了](./Apple/iOS132杀后台问题非但没改善反而变严重了.md)
+1. [iPadmini5这是最佳的iPad入门设备](./Apple/iPadmini5这是最佳的iPad入门设备.md)
+1. [9款最佳iPhoneWiFi工具和网络分析工具](./Apple/9款最佳iPhoneWiFi工具和网络分析工具.md)
+1. [GoodNotes5手感最好的手写笔记APP](./Apple/GoodNotes5手感最好的手写笔记APP.md)
+
+
+***
 ## Android
 
 ### Android体验
