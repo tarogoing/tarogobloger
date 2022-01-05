@@ -75,6 +75,15 @@
         },
         {
             "name": "WebTechSum"
+        },
+        {
+            "name": "MarkDownLaTeX"
+        },
+        {
+            "name": "winSummary"
+        },
+        {
+            "name": "winApps"
         }
     ],
     "id": "1",

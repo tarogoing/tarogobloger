@@ -2,7 +2,8 @@
 一个老程序员的笔记散记，随笔将工作中遇到的问题查询，做了记录，现在整理出来。
 
 [comment]: ![head20220103161703](vx_images/240381716235827.jpg)
-注：左边箭头展开   
+
+[toc]
 
 ## Linux
 
@@ -14,6 +15,12 @@
 1. [linux驱动程序之电源管理 之linux休眠与唤醒-(2)](./linuxsummary/third.md)   
 1. [linux下如何将文件打包、压缩并分割成制定大小](./linuxsummary/fivth.md)   
 1. [Wine 4.0 发布- Ubuntu安装](./linuxsummary/sixth.md)   
+1. [ubuntu1304配置vnc](./winApps/ubuntu1304配置vnc.md)
+1. [在VNC远程桌面环境Xfce4中Tab键失效的解决方法](./winApps/在VNC远程桌面环境Xfce4中Tab键失效的解决方法.md)
+1. [windows下通过VNC图形化访问Ubuntu桌面环境](./winApps/windows下通过VNC图形化访问Ubuntu桌面环境.md)
+1. [学习ubuntu远程桌面XRDP](./winApps/学习ubuntu远程桌面XRDP.md)
+1. [CentOS63x86位安装xfce4桌面vncserver服务](./winApps/CentOS63x86位安装xfce4桌面vncserver服务.md)
+1. [访问ubuntu11.04vncServer时无法敲d键](./winApps/访问ubuntu11.04vncServer时无法敲d键.md)
 
 ### OpenWRT散记
 
@@ -23,12 +30,53 @@
 1. [Openwrt研读笔记三之源码的下载和编译](./openwrt/fourth.md)   
 1. [WRTnode：做自己喜欢的东西，顺便把钱挣了](./openwrt/fivth.md)   
 
+***
+## Windows
+
+### Windows小集锦
+
+1. [先装Win7怎么装xp系统](./winSummary/先装Win7怎么装xp系统.md)
+1. [Win7.USBDAC驱动](./winSummary/win7USBDAC驱动.md)
+1. [Win7.64位系统会发生新插入的USB设备驱动失败的现象](./winSummary/Win7.64位系统会发生新插入的USB设备驱动失败的现象.md)
+1. [Win7挂载Linux的NFS文件系统](./winSummary/Windows7挂载Linux的NFS文件系统.md)
+1. [不验证windows副本安装MediaPlayer11的方法](./winSummary/不验证windows副本安装MediaPlayer11的方法.md)
+1. [win10安装技术预览版9926](./winSummary/win10安装技术预览版9926.md)
+1. [Win10的Linux子系统中运行图形化程序](./winSummary/Win10的Linux子系统中运行图形化程序.md)
+1. [MicrosoftStore错误集锦](./winSummary/MicrosoftStore错误集锦.md)
+1. [Win10自带虚拟机Hyper-V安装win7的教程讲解](./winSummary/Win10自带虚拟机HyperV安装win7的教程讲解.md)
+1. [如何在Win10中使用YourPhone应用程序](./winSummary/如何在Win10中使用YourPhone应用程序.md)
+1. [免费申请OneDrive5T网盘](./winSummary/免费申请OneDrive5T网盘.md)
+1. [全新固态硬盘安装win10怎么装](./winSummary/全新固态硬盘安装win10怎么装.md)
+1. [右键单击文件文件夹一直转圈圈的解决办法小总结](./winSummary/右键单击文件文件夹一直转圈圈的解决办法小总结.md)
+1. [Office365A1Plus指南](./winSummary/Office365A1Plus指南.md)
+1. [浅谈白嫖的Office订阅账户](./winSummary/浅谈白嫖的Office订阅账户.md)
+1. [手机USBLAN和内网LAN共存模式](./winSummary/手机USBLAN和内网LAN共存模式.md)
+1. [电脑微信怎么多开](./winSummary/电脑微信怎么多开.md)
+1. [SecureCRT8.0使用](./winSummary/SecureCRT8.0使用.md)
+1. [使用editplus等编程工具时UTF-8编码去掉BOM头方法](./winSummary/使用editplus等编程工具时UTF-8编码去掉BOM头方法.md)
+
+### Windows软件散记
+
+1. [21款Windows良心软件合集](./winSummary/21款Windows良心软件合集.md)
+1. [AirDroid电脑控制手机](./winApps/AirDroid电脑控制手机.md)
+1. [ApowerMirror電腦同步手機畫面](./winApps/ApowerMirror電腦同步手機畫面.md)
+1. [Centos7安装VncServer_Xfce4.](./winApps/Centos7安装VncServer_Xfce4.md)
+1. [mstsc连接Linux主机](./winApps/mstsc连接Linux主机.md)
+1. [RockchipWiMoApp](./winApps/RockchipWiMoApp.md)
+1. [Teamviewer被黑试试ZohoAssist吧](./winApps/Teamviewer被黑试试ZohoAssist吧.md)
+1. [不可错过的PDF转可编辑word的方法](./winApps/不可错过的PDF转可编辑word的方法.md)
+1. [长虹多屏互动软件功能解析](./winApps/长虹多屏互动软件功能解析.md)
+1. [TouchDisplayLink](./winApps/TouchDisplayLink.md)
+1. [Teamviewer Quick Support在电脑上远程连接控制手机的软件](./winApps/TeamviewerQuickSupport在电脑上远程连接控制手机的软件.md)
+
+***
 ## Android
 
 ### Android体验
 
 1. [适用于Android的4种惊人的桌面环境](./Android/适用于Android的4种惊人的桌面环境.md)   
 2. [Sentio Superbook初步体验](./Android/SentioSuperbook初步体验.md)   
+1. [ShareKM安卓手机上使用电脑的键盘和鼠标](./winApps/ShareKM安卓手机上使用电脑的键盘和鼠标.md)
 
 ### AOSP
 
@@ -104,6 +152,36 @@
 1. [不破解中兴B860A，安装程序](./TvBoxCrack/不破解中兴B860A安装程序.md)  
 2. [中兴B860A打开ADB并安装软件是如此的简单](./TvBoxCrack/中兴B860A打开ADB并安装软件是如此的简单.md)   
 
+***
+## 笔记工具
+
+### MarkDown系列（包含：LateX）
+
+1. [Android原生展示JLaTeXMath](./MarkDownLaTeX/Android原生展示JLaTeXMath.md)
+1. [Android学习探索之本地原生渲染LaTeX数据公式](./MarkDownLaTeX/Android学习探索之本地原生渲染LaTeX数据公式.md)
+1. [Android开发学习之通过API接口将LaTex数学函数表达式转化为图片形式](./MarkDownLaTeX/Android开发学习之通过API接口将LaTex数学函数表达式转化为图片形式.md)
+1. [Latex排版全解](./MarkDownLaTeX/Latex排版全解.md)
+1. [Markdown数学公式语法](./MarkDownLaTeX/Markdown数学公式语法.md)
+1. [Markdown添加Latex数学公式](./MarkDownLaTeX/Markdown添加Latex数学公式.md)
+1. [Markdown编辑器软件](./MarkDownLaTeX/Markdown编辑器软件.md)
+1. [MarkdownMathJax在博客里插入数学公式](./MarkDownLaTeX/MarkdownMathJax在博客里插入数学公式.md)
+1. [Markdown表格内如何换行](./MarkDownLaTeX/Markdown表格内如何换行.md)
+1. [MathpixSnip图片中识别公式](./MarkDownLaTeX/MathpixSnip图片中识别公式.md)
+1. [还在手动输入复杂的公式7款LaTeX实用工具](./MarkDownLaTeX/还在手动输入复杂的公式7款LaTeX实用工具.md)
+
+### WordPress系列
+
+1. [Wordpress中如何使用MarkDown编辑博文](./MarkDownLaTeX/Wordpress中如何使用MarkDown编辑博文.md)
+1. [Wordpress中支持Markdown](./MarkDownLaTeX/Wordpress中支持Markdown.md)
+
+### 笔记应用介绍
+
+1. [Joplin跨平台开源免费Markdown笔记应用替代印象笔记](./MarkDownLaTeX/Joplin跨平台开源免费Markdown笔记应用替代印象笔记.md)
+2. [你是不是也把印象笔记用成了百度云](./MarkDownLaTeX/你是不是也把印象笔记用成了百度云.md)
+3. [印象笔记从入门到精通10个最常见用法](./MarkDownLaTeX/印象笔记从入门到精通10个最常见用法.md)
+4. [竞品分析报告有道云笔记和印象笔记](./MarkDownLaTeX/竞品分析报告有道云笔记和印象笔记.md)
+
+***
 ## 程序开发工具
 
 ### AndroidStudio
@@ -123,9 +201,13 @@
 
 ### Web开发（Chrome插件等）
 
-1. [AJAX局部刷新](./WebTechSum/AJAX局部刷新.md)
+Chrome扩展介绍
 1. [ChromeAppWin10全新官方KindleAPP上线](./WebTechSum/ChromeAppWin10全新官方KindleAPP上线.md)
 1. [Chromecrxheaderinvalid怎么办](./WebTechSum/Chromecrxheaderinvalid怎么办.md)
+1. [Vysor使用方法教程](./winApps/Vysor使用方法教程.md)
+
+网页编程
+1. [AJAX局部刷新](./WebTechSum/AJAX局部刷新.md)
 1. [Mysqldump命令备份和恢复Mysql数据库](./WebTechSum/Mysqldump命令备份和恢复Mysql数据库.md)
 1. [MySQLserverhasgoneaway问题的解决方法](./WebTechSum/MySQLserverhasgoneaway问题的解决方法.md)
 1. [MySQL数据库datetime类型设置00000000默认值报错问题](./WebTechSum/MySQL数据库datetime类型设置00000000默认值报错问题.md)
@@ -156,7 +238,7 @@
 1. [谷歌Chrome插件神器推荐9个拓展好用到逆天](./WebTechSum/谷歌Chrome插件神器推荐9个拓展好用到逆天.md)
 1. [谷歌插件太强了功能无上限全靠想象力](./WebTechSum/谷歌插件太强了功能无上限全靠想象力.md)
 
-
+***
 ## VOIP
 ### VOIP Client
 
