@@ -121,6 +121,42 @@
 3. [怎样用Keil5烧写现成的hex文件](./Keil.ARM/怎样用Keil5烧写现成的hex文件.md)   
 4. [浅谈Keil-MDK创建项目&编译过程](./Keil.ARM/浅谈Keil-MDK创建项目编译过程.md)   
 
+### Web开发（Chrome插件等）
+
+1. [AJAX局部刷新](./WebTechSum/AJAX局部刷新.md)
+1. [ChromeAppWin10全新官方KindleAPP上线](./WebTechSum/ChromeAppWin10全新官方KindleAPP上线.md)
+1. [Chromecrxheaderinvalid怎么办](./WebTechSum/Chromecrxheaderinvalid怎么办.md)
+1. [Mysqldump命令备份和恢复Mysql数据库](./WebTechSum/Mysqldump命令备份和恢复Mysql数据库.md)
+1. [MySQLserverhasgoneaway问题的解决方法](./WebTechSum/MySQLserverhasgoneaway问题的解决方法.md)
+1. [MySQL数据库datetime类型设置00000000默认值报错问题](./WebTechSum/MySQL数据库datetime类型设置00000000默认值报错问题.md)
+1. [thinkphpajax异步局部刷新](./WebTechSum/thinkphpajax异步局部刷新.md)
+1. [ubuntu中mysql修改编码utf8](./WebTechSum/ubuntu中mysql修改编码utf8.md)
+1. [ubuntu安装php72](./WebTechSum/ubuntu安装php72.md)
+1. [virtualenv创建虚拟环境失败的解决方法](./WebTechSum/virtualenv创建虚拟环境失败的解决方法.md)
+1. [WordPress10款主题创建数字产品销售网站](./WebTechSum/WordPress10款主题创建数字产品销售网站.md)
+1. [Wordpress关键表介绍](./WebTechSum/Wordpress关键表介绍.md)
+1. [WordPress搬家到Typecho](./WebTechSum/WordPress搬家到Typecho.md)
+1. [WordPress需要密码才能访问网站的3款插件](./WebTechSum/WordPress需要密码才能访问网站的3款插件.md)
+1. [WP12个最有用的WordPress中htaccess文件设置技巧](./WebTechSum/WP12个最有用的WordPress中htaccess文件设置技巧.md)
+1. [WP中国的WordPress开发者](./WebTechSum/WP中国的WordPress开发者.md)
+1. [WP升级WP插件时被中断结果就一直显示正在执行例行维护请一分钟后回来](./WebTechSum/WP升级WP插件时被中断结果就一直显示正在执行例行维护请一分钟后回来.md)
+1. [WP将微信公众号文章转移到Wordpress](./WebTechSum/WP将微信公众号文章转移到Wordpress.md)
+1. [WP建站心得常用插件描述](./WebTechSum/WP建站心得常用插件描述.md)
+1. [WP收集20个最好的WP搜索引擎优化插件](./WebTechSum/WP收集20个最好的WP搜索引擎优化插件.md)
+1. [WP的文章插入数学公式](./WebTechSum/WP的文章插入数学公式.md)
+1. [WP迁移后404错误解决](./WebTechSum/WP迁移后404错误解决.md)
+1. [使用Lua脚本扩展PowerDNS功能](./WebTechSum/使用Lua脚本扩展PowerDNS功能.md)
+1. [几款开源的后台管理系统](./WebTechSum/几款开源的后台管理系统.md)
+1. [在Ubuntu18.04上安装PowerDNS和PowerDNSAdmin的方法](./WebTechSum/在Ubuntu18.04上安装PowerDNS和PowerDNSAdmin的方法.md)
+1. [微信小程序使用web-view内嵌H5网页并调用微信小程序支付](./WebTechSum/微信小程序使用web-view内嵌H5网页并调用微信小程序支付.md)
+1. [微信公众平台开发上传下载多媒体文件](./WebTechSum/微信公众平台开发上传下载多媒体文件.md)
+1. [手机版Chrome都做不到Kiwi浏览器体验](./WebTechSum/手机版Chrome都做不到Kiwi浏览器体验.md)
+1. [最佳解决国内WordPress网站无法更新和安装插件的方法](./WebTechSum/最佳解决国内WordPress网站无法更新和安装插件的方法.md)
+1. [腾讯云PowerDNS实操](./WebTechSum/腾讯云PowerDNS实操.md)
+1. [谷歌Chrome插件神器推荐9个拓展好用到逆天](./WebTechSum/谷歌Chrome插件神器推荐9个拓展好用到逆天.md)
+1. [谷歌插件太强了功能无上限全靠想象力](./WebTechSum/谷歌插件太强了功能无上限全靠想象力.md)
+
+
 ## VOIP
 ### VOIP Client
 

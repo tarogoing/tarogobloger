@@ -1,0 +1,14 @@
+原因:在命令行窗口查看当前的sql_mode配置:
+MySQL>select @@sql_mode;
+结果如下: 
+
+ONLY_FULL_GROUP_BY, STRICT_TRANS_TABLES, NO_ZERO_IN_DATE, NO_ZERO_DATE, 
+ERROR_FOR_DIVISION_BY_ZERO, NO_AUTO_CREATE_USER, and NO_ENGINE_SUBSTITUTION 
+
+其中NO_ZERO_IN_DATE, NO_ZERO_DATE两个选项禁止了0000这样的日期和时间。因此在mysql的配置文件中，重新设置sql_mode，去掉这两项就可以了。
+Linux系统下:
+
+修改my.cnf文件，在 **[mysqld]** 中添加
+sql-mode=ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION 
+1
+修改完成一定重启MySQL
