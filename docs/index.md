@@ -15,12 +15,12 @@
 1. [linux驱动程序之电源管理 之linux休眠与唤醒-(2)](./TechDocSum/linuxsummary/third.md)   
 1. [linux下如何将文件打包、压缩并分割成制定大小](./TechDocSum/linuxsummary/fivth.md)   
 1. [Wine 4.0 发布- Ubuntu安装](./TechDocSum/linuxsummary/sixth.md)   
-1. [ubuntu1304配置vnc](./TechDocSum/winApps/ubuntu1304配置vnc.md)
-1. [在VNC远程桌面环境Xfce4中Tab键失效的解决方法](./TechDocSum/winApps/在VNC远程桌面环境Xfce4中Tab键失效的解决方法.md)
-1. [windows下通过VNC图形化访问Ubuntu桌面环境](./TechDocSum/winApps/windows下通过VNC图形化访问Ubuntu桌面环境.md)
-1. [学习ubuntu远程桌面XRDP](./TechDocSum/winApps/学习ubuntu远程桌面XRDP.md)
-1. [CentOS63x86位安装xfce4桌面vncserver服务](./TechDocSum/winApps/CentOS63x86位安装xfce4桌面vncserver服务.md)
-1. [访问ubuntu11.04vncServer时无法敲d键](./TechDocSum/winApps/访问ubuntu11.04vncServer时无法敲d键.md)
+1. [ubuntu1304配置vnc](./TechDocSum/winApps/ubuntu1304配置vnc.md)   
+1. [在VNC远程桌面环境Xfce4中Tab键失效的解决方法](./TechDocSum/winApps/在VNC远程桌面环境Xfce4中Tab键失效的解决方法.md)   
+1. [windows下通过VNC图形化访问Ubuntu桌面环境](./TechDocSum/winApps/windows下通过VNC图形化访问Ubuntu桌面环境.md)   
+1. [学习ubuntu远程桌面XRDP](./TechDocSum/winApps/学习ubuntu远程桌面XRDP.md)   
+1. [CentOS63x86位安装xfce4桌面vncserver服务](./TechDocSum/winApps/CentOS63x86位安装xfce4桌面vncserver服务.md)   
+1. [访问ubuntu11.04vncServer时无法敲d键](./TechDocSum/winApps/访问ubuntu11.04vncServer时无法敲d键.md)   
 
 ### OpenWRT散记
 
