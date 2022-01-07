@@ -138,6 +138,39 @@
 1. [多片推荐_二月新片全撤了，不要紧，还有这些神剧](./TravelSum/YouBuFilm/多片推荐_二月新片全撤了，不要紧，还有这些神剧.md)
 1. [多片推荐_坐稳了，前方一大波热辣猛片来袭！](./TravelSum/YouBuFilm/多片推荐_坐稳了，前方一大波热辣猛片来袭！.md)
 
+## 电影讯息
+
+1. [2018夏季美剧最强黑马](./TravelSum/FilmSummary/2018夏季美剧最强黑马.md)
+1. [20部不朽的影史经典](./TravelSum/FilmSummary/20部不朽的影史经典.md)
+1. [24部日本电影堪称「此生必看」](./TravelSum/FilmSummary/24部日本电影堪称「此生必看」.md)
+1. [41岁宅男火烧京都动画界史上最黑暗的一幕](./TravelSum/FilmSummary/41岁宅男火烧京都动画界史上最黑暗的一幕.md)
+1. [Disney+正式发布前已有超过100万美国用户](./TravelSum/FilmSummary/Disney+正式发布前已有超过100万美国用户.md)
+1. [The 50 Best Movies on Netflix Right Now](./TravelSum/FilmSummary/The50BestMoviesonNetflixRightNow.md)
+1. [_热带雨_新加坡2019](./TravelSum/FilmSummary/_热带雨_新加坡2019.md)
+1. [《007无暇赴死》成片长最长邦德电影](./TravelSum/FilmSummary/《007无暇赴死》成片长最长邦德电影.md)
+1. [《一出好戏》世道艰难活着总归得靠一丝希望](./TravelSum/FilmSummary/《一出好戏》世道艰难活着总归得靠一丝希望.md)
+1. [《上气》傅满洲之子弑父漫威为何选择他作为首位华人超级英雄](./TravelSum/FilmSummary/《上气》傅满洲之子弑父漫威为何选择他作为首位华人超级英雄.md)
+1. [《上海堡垒》鹿晗关上了中国科幻电影的一扇门](./TravelSum/FilmSummary/《上海堡垒》鹿晗关上了中国科幻电影的一扇门.md)
+1. [《唐人街探案3》小年送票](./TravelSum/FilmSummary/《唐人街探案3》小年送票.md)
+1. [《寄生虫》的成功是现实主义电影的没落](./TravelSum/FilmSummary/《寄生虫》的成功是现实主义电影的没落.md)
+1. [《杀不死的他和死不了的她》除了生命我们还剩下什么](./TravelSum/FilmSummary/《杀不死的他和死不了的她》除了生命我们还剩下什么.md)
+1. [《灌篮高手》当年你和谁一起追的](./TravelSum/FilmSummary/《灌篮高手》当年你和谁一起追的.md)
+1. [《花木兰》等多部时光早报_花木兰_成本高达2亿美元](./TravelSum/FilmSummary/《花木兰》等多部时光早报_花木兰_成本高达2亿美元.md)
+1. [《陈情令》花式卖钱腾讯视频有谱不](./TravelSum/FilmSummary/《陈情令》花式卖钱腾讯视频有谱不.md)
+1. [危机边缘](./TravelSum/FilmSummary/危机边缘.md)
+1. [国产烂剧多都是编剧的锅](./TravelSum/FilmSummary/国产烂剧多都是编剧的锅.md)
+1. [新世纪以来最伟大的100部电影](./TravelSum/FilmSummary/新世纪以来最伟大的100部电影.md)
+1. [日本动漫难以忘怀](./TravelSum/FilmSummary/日本动漫难以忘怀.md)
+1. [权力的游戏大结局2019年回归](./TravelSum/FilmSummary/权力的游戏大结局2019年回归.md)
+1. [来深图看宫崎骏电影吧](./TravelSum/FilmSummary/来深图看宫崎骏电影吧.md)
+1. [没有清晰结局的迷离档案](./TravelSum/FilmSummary/没有清晰结局的迷离档案.md)
+1. [现在的战争片好像都是在耀武扬威地宣传战争](./TravelSum/FilmSummary/现在的战争片好像都是在耀武扬威地宣传战争.md)
+1. [白屋农场谋杀案](./TravelSum/FilmSummary/白屋农场谋杀案.md)
+1. [笑出内伤又治愈的六部搞笑动漫血荐](./TravelSum/FilmSummary/笑出内伤又治愈的六部搞笑动漫血荐.md)
+1. [网络影视也搞分级啦](./TravelSum/FilmSummary/网络影视也搞分级啦.md)
+1. [网飞美剧推荐](./TravelSum/FilmSummary/网飞美剧推荐.md)
+
+
 # 各国签证啥的
 
 1. [2013年2147计算机工程师不包括软件工程师及设计师FLYabroad](./TravelSum/EUSCAJ/2013年2147计算机工程师不包括软件工程师及设计师FLYabroad.md)
