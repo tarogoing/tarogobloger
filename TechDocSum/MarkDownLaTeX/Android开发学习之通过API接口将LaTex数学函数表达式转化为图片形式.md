@@ -1,4 +1,4 @@
-[toc]
+
 本文将讲解如何通过codecogs.com和Google.com提供的API接口来将LaTeX数学函数表达式转化为图片形式。具体思路如下：
       （1）通过EditText获取用户输入的LaTeX数学表达式，然后对表达式格式化使之便于网络传输。
       （2）将格式化之后的字符串，通过Http请求发送至codecogs.com或者Google.com。

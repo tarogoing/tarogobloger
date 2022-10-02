@@ -67,4 +67,3 @@ B. 目前居住在魁省，持有效工签及魁省教育机构学历，或持1
 
 From <http://mp.weixin.qq.com/s?__biz=MzIxNTgwMTIxMw==&mid=2247491224&idx=3&sn=cd8d88bc406236b2bfbe7893f52bcea3&chksm=9793928aa0e41b9c311596e8bc13e4b6957379d82bdc20b73c4d7d3dddf11423d30004478072&mpshare=1&scene=1&srcid=0804HTzuGuBrVBDsVQWWU8Pd#rd>
 
-已使用 Microsoft OneNote 2016 创建。

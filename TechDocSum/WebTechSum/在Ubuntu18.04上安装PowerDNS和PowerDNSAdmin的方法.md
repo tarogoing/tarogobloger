@@ -1,4 +1,4 @@
-[toc]
+
 # 在Ubuntu 18.04/Debian 9上安装PowerDNS和PowerDNS-Admin的方法
 
 2019-02-20 22:01:16作者:叶云稿源:云网牛站

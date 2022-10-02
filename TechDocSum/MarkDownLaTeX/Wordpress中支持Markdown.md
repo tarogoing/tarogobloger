@@ -1,4 +1,4 @@
-[toc]
+
 [在路上](https://www.crifan.com "在路上-on the way - 走别人没走过的路，让别人有路可走")
 
 *   [首页](https://www.crifan.com/)

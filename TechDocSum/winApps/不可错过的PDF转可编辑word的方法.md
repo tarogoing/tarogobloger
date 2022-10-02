@@ -1,4 +1,4 @@
-[toc]
+
 # 不可错过的PDF转可编辑word的方法
 
 [2018-08-16](https://kknews.cc/archive/20180816/) *由 转转大师在线pdf转换 發表于[新闻](https://kknews.cc/news/)*

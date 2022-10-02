@@ -1,4 +1,4 @@
-[toc]
+
 
 # 使用Lua脚本扩展PowerDNS功能
 

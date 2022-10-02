@@ -1,4 +1,4 @@
-[toc]
+
 # Markdown 添加 Latex 数学公式
 
 [<img width="46" height="46" src="../_resources/10-e691107df16746d4a9f3fe9496fd1_1cc5467c7b5a449ca.jpg"/>](https://www.jianshu.com/u/a3e2567648b3)

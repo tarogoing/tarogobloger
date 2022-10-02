@@ -1,4 +1,4 @@
-[toc]
+
 ## <a id="t0"></a><a id="t0"></a><a id="title_Mathpix_Snip_0"></a>title: 数学公式神器Mathpix Snip—妈妈再也不用担心我不会写数学公式了！
 
 本文转载自**机器之心**—《最好用的文字与公式编辑器，这套数学笔记神器送给你》，原文链接[点击这儿](https://www.jiqizhixin.com/articles/2019-04-06-2)。

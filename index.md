@@ -1,9 +1,7 @@
-<img width="64" height="64" src="vx_images/240381716235827.jpg">
+
 一个老程序员的笔记散记，随笔将工作中遇到的问题查询，做了记录，现在整理出来。
 
-[comment]: ![head20220103161703](vx_images/240381716235827.jpg)
 
-[toc]
 
 ## Linux
 

@@ -1,4 +1,3 @@
-[toc]
 ### 谷歌泰国推出免费公共WiFi；微信支付与新加坡樟宜机场达成三年战略合作 | 东南亚创投周报
 2018年7月30日
 8:12
@@ -164,4 +163,3 @@ SaaS库存管理平台TradeGecko获得1000万美元B轮融资
 
 来自  <https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2247516540&idx=1&sn=aad09f29f78092f6cf5549178c77ba13&chksm=eaa6d0a0ddd159b6917a975a9b7c3bb50d4c6aea0587af9f0fa4ab90ff66c69d2af4f319596d&mpshare=1&scene=1&srcid=0730UtYI51EP2caF5EtUDmrc#rd>
 
-已使用 Microsoft OneNote 2016 创建。

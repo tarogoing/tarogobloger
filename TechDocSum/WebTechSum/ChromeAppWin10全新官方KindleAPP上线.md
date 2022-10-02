@@ -1,4 +1,4 @@
-[toc]
+
 
 # Win10全新官方Kindle APP上线：仅10.43KB
 

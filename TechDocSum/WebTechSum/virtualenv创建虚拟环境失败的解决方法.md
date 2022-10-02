@@ -1,4 +1,4 @@
-[toc]
+
 <img width="690" height="345" src="../_resources/v2-175a050b0bbaff8a2b93ba5613ffc_a9c7c7a78bc946eea.jpg"/>
 
 # virtualenv venv 创建虚拟环境失败的解决方法

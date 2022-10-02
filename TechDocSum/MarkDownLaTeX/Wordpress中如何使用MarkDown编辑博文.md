@@ -1,4 +1,4 @@
-[toc]
+
 用wordpress markdown为关键词搜索的话，无论Google还是百度，我的博客[墙外的梯子](https://link.zhihu.com/?target=http%3A//www.itoldme.net) 都是靠前的，如果你搜索了可以看看我的文章。推荐这篇文章[使用Markdown写作Wordpress](https://link.zhihu.com/?target=http%3A//www.itoldme.net/archives/427)。推荐**使用Jetpack或者JP Markdown**，后者是Jetpack插件的markdown部分，**不推荐使用wp-markdown**的原因是会丢失一些特殊内容（至少我之前使用的版本是这样。）
 
 以下为文章内容，知乎这里显示的不好，推荐去看原文[使用Markdown写作Wordpress](https://link.zhihu.com/?target=http%3A//www.itoldme.net/archives/427)。  

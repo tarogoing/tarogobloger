@@ -55,4 +55,3 @@
 
 From <http://mp.weixin.qq.com/s?__biz=MzIzNzA0ODQxOA==&mid=2650022793&idx=1&sn=ea1a70cf11dfbe9b3c95c1be09573877&chksm=f0ce0484c7b98d92ba98d489df6800602b83d18aac0fe22468cf534d1c7fd111cecd09efdfd4&mpshare=1&scene=1&srcid=0806CX4PJK6qkil9tVD1vyZ3#rd>
 
-已使用 Microsoft OneNote 2016 创建。

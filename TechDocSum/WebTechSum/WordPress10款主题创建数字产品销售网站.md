@@ -1,4 +1,4 @@
-[toc]
+
 # 10 WordPress主题创建数字产品销售网站
 
 - [帕西盖伊](https://zh-cn.blogpascher.com/%E4%BD%9C%E8%80%85/guysalomon "文章由Guy帕西")

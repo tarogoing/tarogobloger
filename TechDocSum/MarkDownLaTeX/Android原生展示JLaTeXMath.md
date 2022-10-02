@@ -1,4 +1,4 @@
-[toc]
+
 ### JLaTeXMath
 
 1.JLaTeXMath是一个Java库。它的主要功能是显示LaTeX编写的数学公式，是最好的显示LaTeX代码的Java库。
