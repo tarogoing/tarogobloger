@@ -51,12 +51,12 @@ repo sync -j16
 从设备获取必须文件
 NOTE: 这个步骤每台手机机器只要操作一次即可，不用每次编译都执行，之前执行过的话，直接跳转到下载RomManager这个步骤.
 ```
-You will need to have a {{{device}}} with a working copy of CyanogenMod install and ADB working on the computer. This script will copy the proprietary files from the device. 
+You will need to have a with a working copy of CyanogenMod install and ADB working on the computer. This script will copy the proprietary files from the device. 
 ```
 你的手机最好是已经正在使用CM系统，电脑必须安装ADB驱动，下面的指令就会把需要的文件从手机中提取出来用于下面的编译：
 ```
 Connect the device to the computer and ensure that ADB is working properly.
-cd ~/android/system/device/{{{vendor}}}/{{{device}}}/
+cd ~/android/system/device/vendor/device/
 ./extract-files.sh
 ```
 NOTE: 如果编译后的CM一些硬件无法正常工作，比如摄像、FM收音机，那么你必须更新部分的支持库文件到新版本。
