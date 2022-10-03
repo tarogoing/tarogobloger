@@ -1,7 +1,7 @@
 # Summary
 一个老程序员的笔记散记，随笔将工作中遇到的问题查询，做了记录，现在整理出来。
 
-# [Linux]
+### Linux
 - [Linux散记]
   - [rsync同步目录](./linuxsummary/first.md)  
   - [Linux内核regulator架构和编写](./linuxsummary/second.md)   
@@ -21,7 +21,7 @@
   - [技术解析：破解无线WIFI WPS认证机制](./openwrt/third.md)   
   - [Openwrt研读笔记三之源码的下载和编译](./openwrt/fourth.md)   
   - [WRTnode：做自己喜欢的东西，顺便把钱挣了](./openwrt/fivth.md)   
-# Windows
+### Windows
 - [Windows小集锦]
   - [先装Win7怎么装xp系统](./winSummary/先装Win7怎么装xp系统.md)
   - [Win7.USBDAC驱动](./winSummary/win7USBDAC驱动.md)
@@ -54,7 +54,7 @@
   - [长虹多屏互动软件功能解析](./winApps/长虹多屏互动软件功能解析.md)
   - [TouchDisplayLink](./winApps/TouchDisplayLink.md)
   - [Teamviewer Quick Support在电脑上远程连接控制手机的软件](./winApps/TeamviewerQuickSupport在电脑上远程连接控制手机的软件.md)
-# Apple
+### Apple
 - [Apple硬件]
   - [AppleWatchECG自己開通海外版本](./Apple/AppleWatchECG自己開通海外版本.md)
   - [ApplePay正式支持香港八达通Octopus公交卡](./Apple/ApplePay正式支持香港八达通Octopus公交卡.md)
@@ -86,7 +86,7 @@
   - [iPadmini5这是最佳的iPad入门设备](./Apple/iPadmini5这是最佳的iPad入门设备.md)
   - [9款最佳iPhoneWiFi工具和网络分析工具](./Apple/9款最佳iPhoneWiFi工具和网络分析工具.md)
   - [GoodNotes5手感最好的手写笔记APP](./Apple/GoodNotes5手感最好的手写笔记APP.md)
-# Android
+### Android
 - [Android体验]
   - [适用于Android的4种惊人的桌面环境](./Android/适用于Android的4种惊人的桌面环境.md)   
   - [Sentio Superbook初步体验](./Android/SentioSuperbook初步体验.md)   
@@ -143,7 +143,7 @@
 - [电视盒子破解]
   - [不破解中兴B860A，安装程序](./TvBoxCrack/不破解中兴B860A安装程序.md)  
   - [中兴B860A打开ADB并安装软件是如此的简单](./TvBoxCrack/中兴B860A打开ADB并安装软件是如此的简单.md)   
-# 笔记工具
+### 笔记工具
 - [MarkDown系列（包含：LateX）]
   - [Android原生展示JLaTeXMath](./MarkDownLaTeX/Android原生展示JLaTeXMath.md)
   - [Android学习探索之本地原生渲染LaTeX数据公式](./MarkDownLaTeX/Android学习探索之本地原生渲染LaTeX数据公式.md)
@@ -164,19 +164,19 @@
   - [你是不是也把印象笔记用成了百度云](./MarkDownLaTeX/你是不是也把印象笔记用成了百度云.md)
   - [印象笔记从入门到精通10个最常见用法](./MarkDownLaTeX/印象笔记从入门到精通10个最常见用法.md)
   - [竞品分析报告有道云笔记和印象笔记](./MarkDownLaTeX/竞品分析报告有道云笔记和印象笔记.md)
-# 程序开发工具
+### 程序开发工具
 - [AndroidStudio]
   - [使用Gradle构建Android项目](./AndroidStudio/使用Gradle构建Android项目.md)   
   - [修改android studio中的avd sdk路径、avd sdk找不到的解决方案](./AndroidStudio/修改androidstudio中的avdsdk路径avdsdk找不到的解决方案.md)   
   - [最全面的Android Studio使用教程](./AndroidStudio/最全面的AndroidStudio使用教程.md)   
   - [谷歌开发工具Android Studio安装使用图文教程](./AndroidStudio/谷歌开发工具AndroidStudio安装使用图文教程.md)   
   - [額外補充2021年的假日，以下日期以美國當地時間為準。](./AndroidStudio/額外補充2021年的假日以下日期以美國當地時間為準.md)   
-- [Keil ARM]
+- [KeilARM]
   - [keil生成bin文件的两种方法（多图）](./Keil.ARM/keil生成bin文件的两种方法多图.md)   
   - [STM32用Keil烧录已有的hex文件](./Keil.ARM/STM32用Keil烧录已有的hex文件.md)   
   - [怎样用Keil5烧写现成的hex文件](./Keil.ARM/怎样用Keil5烧写现成的hex文件.md)   
   - [浅谈Keil-MDK创建项目&编译过程](./Keil.ARM/浅谈Keil-MDK创建项目编译过程.md)   
-- [Web开发（Chrome插件等）]
+### Web开发（Chrome插件等）
 - [Chrome扩展介绍]
   - [ChromeAppWin10全新官方KindleAPP上线](./WebTechSum/ChromeAppWin10全新官方KindleAPP上线.md)
   - [Chromecrxheaderinvalid怎么办](./WebTechSum/Chromecrxheaderinvalid怎么办.md)
@@ -212,7 +212,7 @@
   - [腾讯云PowerDNS实操](./WebTechSum/腾讯云PowerDNS实操.md)
   - [谷歌Chrome插件神器推荐9个拓展好用到逆天](./WebTechSum/谷歌Chrome插件神器推荐9个拓展好用到逆天.md)
   - [谷歌插件太强了功能无上限全靠想象力](./WebTechSum/谷歌插件太强了功能无上限全靠想象力.md)
-# VOIP
+### VOIP
 - [VOIPClient]
   - [iLBC － 为未来而设计的编码／译码器](./VOIP-Client/iLBC为未来而设计的编码译码器.md)   
   - [linPhone is an open source internet phone or Voice](./VOIP-Client/linPhoneisanopensourceinternetphoneorVoice.md)   

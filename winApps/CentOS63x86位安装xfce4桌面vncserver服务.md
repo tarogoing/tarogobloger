@@ -1,10 +1,24 @@
-注意这里用的是最小化安装纯净系统212个包CentOS-6.3-x86_64-minimal.iso
-1，\#wget http://mirrors.sohu.com/Fedora-epel//6/x86_64/epel-release-6-7.noarch.rpm
-   rpm -ivh epel-release-6-7.noarch.rpm
+# 注意这里用的是最小化安装纯净系统212个包
+
+### 1、CentOS-6.3-x86_64-minimal.iso
+```
+#wget http://mirrors.sohu.com/Fedora-epel//6/x86_64/epel-release-6-7.noarch.rpm
+#rpm -ivh epel-release-6-7.noarch.rpm
+```
 其目的是生产epel的yum源文件
-\# ls
-CentOS-Base.repo  CentOS-Base.repo.bak  CentOS-Debuginfo.repo  CentOS-Media.repo  CentOS-Vault.repo  epel.repo  epel-testing.repo
-2，\# yum groupinfo xfce
+```
+# ls
+CentOS-Base.repo  
+CentOS-Base.repo.bak  
+CentOS-Debuginfo.repo  
+CentOS-Media.repo  
+CentOS-Vault.repo  
+epel.repo  
+epel-testing.repo
+```
+### 2、安装xfce
+```
+# yum groupinfo xfce
 Loaded plugins: fastestmirror, presto
 Setting up Group Process
 Loading mirror speeds from cached hostfile
@@ -42,17 +56,35 @@ Group: Xfce
    xfwm4-themes
  Conditional Packages:
    pinentry-gtk
-3，\# yum -y groupinstall xfce
-又安装了226个包，比系统212个还多
+# yum -y groupinstall xfce
+```
+### 3、又安装了226个包，比系统212个还多
+```
 Installed:
-  NetworkManager-gnome.x86_64 1:0.8.1-33.el6          Terminal.x86_64 0:0.4.7-1.el6                       Thunar.x86_64 0:1.3.0-4.el6                       
-  gdm.x86_64 1:2.30.4-33.el6_2                        leafpad.x86_64 0:0.8.18.1-1.el6                     openssh-askpass.x86_64 0:5.3p1-81.el6             
-  orage.x86_64 0:4.8.1-3.el6                          pinentry-gtk.x86_64 0:0.7.6-6.el6                   polkit-gnome.x86_64 0:0.96-3.el6                  
-  thunar-archive-plugin.x86_64 0:0.3.0-2.el6          thunar-volman.x86_64 0:0.6.0-2.el6                  tumbler.x86_64 0:0.1.21-1.el6                     
-  xfce-utils.x86_64 0:4.8.3-1.el6                     xfce4-appfinder.x86_64 0:4.8.0-2.el6                xfce4-icon-theme.noarch 0:4.4.3-5.el6             
-  xfce4-mixer.x86_64 0:4.8.0-1.el6                    xfce4-panel.x86_64 0:4.8.3-2.el6                    xfce4-power-manager.x86_64 0:1.0.10-1.el6         
-  xfce4-session.x86_64 0:4.8.1-4.el6                  xfce4-session-engines.x86_64 0:4.8.1-4.el6          xfce4-settings.x86_64 0:4.8.3-1.el6               
-  xfconf.x86_64 0:4.8.0-2.el6                         xfdesktop.x86_64 0:4.8.2-2.el6                      xfwm4.x86_64 0:4.8.3-1.el6                       
+  NetworkManager-gnome.x86_64 1:0.8.1-33.el6          
+  Terminal.x86_64 0:0.4.7-1.el6                       
+  Thunar.x86_64 0:1.3.0-4.el6                       
+  gdm.x86_64 1:2.30.4-33.el6_2                        
+  leafpad.x86_64 0:0.8.18.1-1.el6                     
+  openssh-askpass.x86_64 0:5.3p1-81.el6             
+  orage.x86_64 0:4.8.1-3.el6                          
+  pinentry-gtk.x86_64 0:0.7.6-6.el6                   
+  polkit-gnome.x86_64 0:0.96-3.el6                  
+  thunar-archive-plugin.x86_64 0:0.3.0-2.el6          
+  thunar-volman.x86_64 0:0.6.0-2.el6                  
+  tumbler.x86_64 0:0.1.21-1.el6                     
+  xfce-utils.x86_64 0:4.8.3-1.el6                     
+  xfce4-appfinder.x86_64 0:4.8.0-2.el6                
+  xfce4-icon-theme.noarch 0:4.4.3-5.el6             
+  xfce4-mixer.x86_64 0:4.8.0-1.el6                    
+  xfce4-panel.x86_64 0:4.8.3-2.el6                    
+  xfce4-power-manager.x86_64 0:1.0.10-1.el6         
+  xfce4-session.x86_64 0:4.8.1-4.el6                  
+  xfce4-session-engines.x86_64 0:4.8.1-4.el6          
+  xfce4-settings.x86_64 0:4.8.3-1.el6               
+  xfconf.x86_64 0:4.8.0-2.el6                         
+  xfdesktop.x86_64 0:4.8.2-2.el6                      
+  xfwm4.x86_64 0:4.8.3-1.el6                       
 Dependency Installed:
   ConsoleKit.x86_64 0:0.4.1-3.el6                                            ConsoleKit-libs.x86_64 0:0.4.1-3.el6                                           
   ConsoleKit-x11.x86_64 0:0.4.1-3.el6                                        DeviceKit-power.x86_64 0:014-3.el6                                             
@@ -157,8 +189,10 @@ Dependency Installed:
 Dependency Updated:
   libudev.x86_64 0:147-2.42.el6                                                                                                                             
 Complete!
-4， 安装 vncserver
-\# yum -y install tigervnc-server
+```
+### 4， 安装 vncserver
+```
+# yum -y install tigervnc-server
 Loaded plugins: fastestmirror, presto
 Loading mirror speeds from cached hostfile
 Setting up Install Process
@@ -219,8 +253,10 @@ Installed:
 Dependency Installed:
   mesa-dri-drivers.x86_64 0:7.11-5.el6             xorg-x11-font-utils.x86_64 1:7.2-11.el6             xorg-x11-fonts-misc.noarch 0:7.2-9.1.el6           
 Complete!
-5，生成帐号配置文件
-\# vncserver
+```
+### 5，生成帐号配置文件
+```
+# vncserver
 You will require a password to access your desktops.
 Password:
 Verify:
@@ -229,8 +265,8 @@ New 'bogon:1 (root)' desktop is bogon:1
 Creating default startup script /root/.vnc/xstartup
 Starting applications specified in /root/.vnc/xstartup
 Log file is /root/.vnc/bogon:1.log
-\# su - tao
-\$ vncserver
+# su - tao
+$ vncserver
 You will require a password to access your desktops.
 Password:
 Verify:
@@ -239,19 +275,25 @@ New 'bogon:2 (tao)' desktop is bogon:2
 Creating default startup script /home/tao/.vnc/xstartup
 Starting applications specified in /home/tao/.vnc/xstartup
 Log file is /home/tao/.vnc/bogon:2.log
-\$ ls .vnc/
+$ ls .vnc/
 bogon:2.log  bogon:2.pid  passwd  xstartup
-6，修改xstartup用xfce4桌面
+```
+### 6，修改xstartup用xfce4桌面
+```
 [root@localhost ~]# cat ~/.vnc/xstartup
-\#!/bin/sh
+#!/bin/sh
 /usr/bin/startxfce4 &
-7，修改vncservers配置文件该文件可以设置客户端帐号连接信息
-\# tail -n 3 /etc/sysconfig/vncservers 
+```
+### 7，修改vncservers配置文件该文件可以设置客户端帐号连接信息
+```
+# tail -n 3 /etc/sysconfig/vncservers 
 VNCSERVERS="1:root 2:tao "
 VNCSERVERARGS[1]="-geometry 1024x768"
 VNCSERVERARGS[2]="-geometry 1024x768"
-8，开启vncserver服务 
-\# /etc/init.d/vncserver restart
+```
+### 8，开启vncserver服务 
+```
+# /etc/init.d/vncserver restart
 关闭 VNC 服务器：[确定]
 正在启动 VNC 服务器：1:root 
 New 'localhost:1 (root)' desktop is localhost:1
@@ -262,16 +304,18 @@ New 'localhost:2 (tao)' desktop is localhost:2
 Starting applications specified in /home/tao/.vnc/xstartup
 Log file is /home/tao/.vnc/localhost:2.log
 [确定]
-\# chkconfig vncserver on
-9，关闭selinux，设置防火墙
-\# grep SELINUX /etc/sysconfig/selinux 
-\# SELINUX= can take one of these three values:
+# chkconfig vncserver on
+```
+### 9，关闭selinux，设置防火墙
+```
+# grep SELINUX /etc/sysconfig/selinux 
+# SELINUX= can take one of these three values:
 SELINUX=disabled
-\# SELINUXTYPE= can take one of these two values:
+# SELINUXTYPE= can take one of these two values:
 SELINUXTYPE=targeted 
-\# getenforce 
+# getenforce 
 Disabled
-\# iptables -L
+# iptables -L
 Chain INPUT (policy ACCEPT)
 target     prot opt source               destination         
 ACCEPT     all  --  anywhere             anywhere            state RELATED,ESTABLISHED 
@@ -285,7 +329,9 @@ target     prot opt source               destination
 REJECT     all  --  anywhere             anywhere            reject-with icmp-host-prohibited
 Chain OUTPUT (policy ACCEPT)
 target     prot opt source               destination      
-10，客户端连接
+```
+### 10，客户端连接
+
 ![913193720681.png](../_resources/913193720681.png)
 ![913193720682.png](../_resources/913193720682.png)
 ![913193720683.png](../_resources/913193720683.png)
