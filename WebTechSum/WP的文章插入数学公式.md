@@ -35,10 +35,8 @@ MS内置公式是MathType的精简版（衍生版），这有一些历史因素�
 比如：
 
 ![press-math-5.png](../_resources/press-math-5.png)
-复制出来为：
-\(d = \frac{1}{{\left\| w ight\|}}|w \bullet {x_i} + b|\)
-应该是：
-\\(d = \frac{1}{{\left\| w ight\|}}|w \bullet {x_i} + b|\\)
+
+
 **最终解决方案**
 在OneNote写好的文章，复制到atom中对应.md文件，将原有的MS公式替换为Mathjax，并添加到空白处。
 使用“MathJax-LaTeX”的WordPress插件解析公式。

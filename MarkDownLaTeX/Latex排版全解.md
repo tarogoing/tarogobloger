@@ -1,14 +1,12 @@
-
 LATEX（英语发音：/ˈleɪtɛk/ LAY-tek或英语发音：/ˈlɑːtɛk/ LAH-tek，音译“拉泰赫”），是一种基于TEX的排版系统，由美国电脑学家莱斯利•兰伯特在20世纪80年代初期开发，利用这种格式，即使用户没有排版和程序设计的知识也可以充分发挥由TEX所提供的强大功能。对于生成复杂表格和数学公式，这一点表现得尤为突出。因此它非常适用于生成高印刷质量的科技和数学类文档。这个系统同样适用于生成从简单的邮件到完整书籍的所有其他种类的文档。
-      和Microsoft Office Word 等所见即所得的办公软件不同，用LATEX 排版文档，首先要用文本编辑器编辑好tex 文档，然后通过各种程序编译，得到pdf 文档用于打印或者阅读。基本的排版流程如下图：
-
+和Microsoft Office Word 等所见即所得的办公软件不同，用LATEX 排版文档，首先要用文本编辑器编辑好tex 文档，然后通过各种程序编译，得到pdf 文档用于打印或者阅读。基本的排版流程如下图：
 
 ![](../_resources/440574876739.png)
 
-
-      一般我们经常用pdflatex 或者xelatex 程序直接从tex 文件生成pdf 文件。如果是中文tex 文档，优先使用xelatex 程序编译。
-      WinEdt是一款Microsoft Windows平台下的文本编辑器。它主要是用来创建TeX（或者LaTeX）文档，但是同时也能处理HTML或者其他文本文档。它被很多TeX系统如MiKTeX用来当作输入前端，且无缝整合。
+一般我们经常用pdflatex 或者xelatex 程序直接从tex 文件生成pdf 文件。如果是中文tex 文档，优先使用xelatex 程序编译。
+WinEdt是一款Microsoft Windows平台下的文本编辑器。它主要是用来创建TeX（或者LaTeX）文档，但是同时也能处理HTML或者其他文本文档。它被很多TeX系统如MiKTeX用来当作输入前端，且无缝整合。
 本文利用WinEdt来实现对latex的学习与应用。
+
 ## **第一部分 软件安装**
 ### **1.首先安装LATEX**
 下载地址：http://www.miktex.org/download。按照步骤安装，新版Latex会自带文档编辑器TeXworks。
@@ -18,34 +16,24 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 下载地址：http://www.winedt.com/download.html。按照步骤安装，在完成时，增加勾选关联关于Tex的项。
 1）熟悉WinEdt软件，几个重要的区域：
 
-
 ![](../_resources/441024875600.png)
-
 
 ①插入图片
 ②插入表格
 ③插入超链接
 ④插入文章的结构：part、chapter等
 
-
 ![](../_resources/441047841204.png)
-
 
 ⑤文字的居左、中、右。
 ⑥列表样式
 
-
-
 ![](../_resources/441102538907.png)
-
-
 
 ⑦显示左侧的框区，区域13
 ⑧显示数学符号
 
-
 ![](../_resources/441136918023.png)
-
 
 ⑨编译，运行；旁边的放大镜
 
@@ -73,6 +61,7 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 a.大小写敏感
 b．设置编辑区代码行数：View->Line Numbers(或Ctrl+=);
 c. WinEdt中的环境(
+```
 \begin{}...\end{}
 )自动补足功能。以
 ...(1)
@@ -81,25 +70,28 @@ c. WinEdt中的环境(
 \begin{equation}} ▪输入时使用\begin{equation}>，如果之后没有\end{...}，则与第一种方法相同；如果之后有个别的\end{...}，如\end{document}，则系统将弹出窗口提示Change Environment，输入equation，则自动将\end{document}改为\end{equation}
 
 ▪输入时使用\end{{
+```
 d. 编辑区左侧的小箭头将这行代码转到PDF文件对应的区域
 
-
-![](../_resources/441203622428.png)
-
-
 相比较，WinEdt功能更强，且无缝整合LaTex，选择WinEdt作为编辑器。当然除了TeXWorks、WinEdt，还有很多其他的软件，此处不再介绍。
+
 ## **第二部分 LaTex排版**
 ### **一.英文文档**
 1.最简单的LATEX 英文文档
+
+```
 % hello.tex
 \documentclass[a4paper]{article}
 \usepackage{hyperref}
 \begin{document}
 Hello World!
 \end{document}
+```
 
 ①% 符号后面的内容都表示注释
+
 ②在LATEX 文档中，用\ 开始的字母串来表示一个命令。命令后面用花括号{} 包含的内容是该命令的参数，必不可少。
+
 ③这里的\documentclass 是LATEX 文档的基本命令，用于指明文档类。\documentclass[选项]{文档类}
 文档类
 article    排版科技期刊、短报告、程序文档、邀请函等。
@@ -114,14 +106,18 @@ slides    排版幻灯片。其中使用了较大的 sans serif 字体。也可�
 草稿定稿（draft，final）：默认为final（定稿）；如果是draft（草稿），页面内容有溢出时会显示粗黑条。
 单面双面（oneside，twoside）：对于article 和report 文档类，默认设置为单面，页码总是在右边；对于book 文档类，默认设置为双面，奇数页页码在右边，偶数页页码在左边，这样双面打印时页码总在外侧。
 新章开始（openright，openany）：仅对book 文档类有效，默认值为openright，即每章都从奇数页开始；如果设置为openany，则每章仅从新的一页开始，不管奇偶页。
+
 ④\usepackage 命令也是LATEX 的基本命令，用于载入LATEX 宏包。LATEX 系统中包含了各种各样的宏包，对LATEX 的基本功能作了各种扩展。
+
 ⑤
 \begin{document} 和\end{document}
 之间的部分我们称为正文区，一般用于正文内容的撰写。这个例子的正文内容只有简单的Hello World!。对应的，在\documentclass 和\begin{document} 命令之间的部分我们称为导言区，一般用于载入宏包，定义命令和调整格式。
+
 ⑥LaTeX 的命令也有不同的类型，形如
 \begin{环境名}...\end{环境名}
 的命令组合我们称为环境。
 LATEX 文档把格式和内容部分分开，是一种良好的设计准则。
+
 ### **二.中文文档**
 LaTeX 中文文档的排版有各种方式，例如CCT，CJK，xeCJK 等等。目前最优秀的方式是用ctex 文档类来排版中文文档，它在其它各种方式的基础上以一致的方式解决了中文排版的问题。例如：
 \documentclass[UTF8]{ctexart}
@@ -130,14 +126,21 @@ LaTeX 中文文档的排版有各种方式，例如CCT，CJK，xeCJK 等等。�
 \end{document}
 使用这种方式，只需要将文档类从英文的article 改成ctexart，所有中文环境和章节编号等等都已经按照中文习惯设置好了，简单易行。另外，对于book 和report 文档类，也有对应的ctexbook 和ctexrep 中文文档类，其用法类似。
 例子中的UTF8 这个可选参数指明了中文文档的编码。编码主要有这两种：GBK 和UTF8，而不同的LaTeX 编辑器对中文文档的默认编码不同。WinEdt 编辑器的默认中文编码为GBK，而TeXworks 编辑器的默认中文编码为UTF8。
+
 ### **三.主要编辑（使用图形加快编辑）**
+
 #### 1.输入特殊字符
+
 输入 \# $ \% \& \{ \} \ _ \^{} \~{} \textless \textgreater \textbar \textbackslash
 输出 # $ % & { } _ ^ ~ < > | \
+
 #### 2.段落换行
+
 用一个空行或者\par 命令可以开始新的段落，同时会有默认的首行缩进。用\\ 或者\newline 可以强制换行在下一行继续，且在下一行不会有缩进。
+
 #### 3.列表环境
 列表环境有三种：无序列表（itemize）、有序列表（enumerate）和描述列表（description）。使用⑥的图标，自动生成代码。
+```
 \documentclass[UTF8]{ctexart}
 \begin{document}
 \begin{itemize}
@@ -156,6 +159,7 @@ LaTeX 中文文档的排版有各种方式，例如CCT，CJK，xeCJK 等等。�
   \item[css] css
 \end{description}
 \end{document}
+```
 显示效果如下：
 
 
@@ -646,8 +650,9 @@ thuthesis.cls和thuthesis.cfg 可由thuthesis.ins和thuthesis.dtx生成。
 \begin{document}
 
 % 定义所有的eps文件在 figures 子目录下
+```
 \graphicspath{{figures/}}
-
+```
 
 %%% 封面部分
 \frontmatter
