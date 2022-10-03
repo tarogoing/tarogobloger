@@ -3,7 +3,7 @@ LATEX（英语发音：/ˈleɪtɛk/ LAY-tek或英语发音：/ˈlɑːtɛk/ LAH-t
       和Microsoft Office Word 等所见即所得的办公软件不同，用LATEX 排版文档，首先要用文本编辑器编辑好tex 文档，然后通过各种程序编译，得到pdf 文档用于打印或者阅读。基本的排版流程如下图：
 
 
-![440574876739.png](../_resources/440574876739.png)
+![](../_resources/440574876739.png)
 
 
       一般我们经常用pdflatex 或者xelatex 程序直接从tex 文件生成pdf 文件。如果是中文tex 文档，优先使用xelatex 程序编译。
@@ -19,7 +19,7 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 1）熟悉WinEdt软件，几个重要的区域：
 
 
-![441024875600.png](../_resources/441024875600.png)
+![](../_resources/441024875600.png)
 
 
 ①插入图片
@@ -28,7 +28,7 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 ④插入文章的结构：part、chapter等
 
 
-![441047841204.png](../_resources/441047841204.png)
+![](../_resources/441047841204.png)
 
 
 ⑤文字的居左、中、右。
@@ -36,7 +36,7 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 
 
 
-![441102538907.png](../_resources/441102538907.png)
+![](../_resources/441102538907.png)
 
 
 
@@ -44,7 +44,7 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 ⑧显示数学符号
 
 
-![441136918023.png](../_resources/441136918023.png)
+![](../_resources/441136918023.png)
 
 
 ⑨编译，运行；旁边的放大镜
@@ -56,14 +56,14 @@ TeXWorks 支持命令补全（command completion）。使用方法是在输入�
 ⑬点击Set Main File，显示文章的树型结构大纲
 
 
-![441175033655.png](../_resources/441175033655.png)
+![](../_resources/441175033655.png)
 
 
 ⑭代码编辑区
 ⑮Console，工作台，代码出错会在这里报错。
 
 
-![441188789641.png](../_resources/441188789641.png)
+![](../_resources/441188789641.png)
 
 
 蓝框内表示：第一个错误出现在第6行。
@@ -84,7 +84,7 @@ c. WinEdt中的环境(
 d. 编辑区左侧的小箭头将这行代码转到PDF文件对应的区域
 
 
-![441203622428.png](../_resources/441203622428.png)
+![](../_resources/441203622428.png)
 
 
 相比较，WinEdt功能更强，且无缝整合LaTex，选择WinEdt作为编辑器。当然除了TeXWorks、WinEdt，还有很多其他的软件，此处不再介绍。
@@ -159,7 +159,7 @@ LaTeX 中文文档的排版有各种方式，例如CCT，CJK，xeCJK 等等。�
 显示效果如下：
 
 
-![441226127315.png](../_resources/441226127315.png)
+![](../_resources/441226127315.png)
 
 
 #### **4.标题摘要**
@@ -179,7 +179,7 @@ LATEX（英语发音：/ˈleɪtɛk/ LAY-tek或英语发音：/ˈlɑːtɛk/ LAH-t
 显示效果如下：
 
 
-![441260976147.png](../_resources/441260976147.png)
+![](../_resources/441260976147.png)
 
 
 如果\date{} 命令的参数为空，则不显示日期信息。如果不出现\date 命令，则默认显示当前的日期。
@@ -202,7 +202,7 @@ LATEX（英语发音：/ˈleɪtɛk/ LAY-tek或英语发音：/ˈlɑːtɛk/ LAH-t
 显示效果如下：
 
 
-![441302691122.png](../_resources/441302691122.png)
+![](../_resources/441302691122.png)
 
 
 要调整章节标题在目录页中的格式，可以用titletoc 宏包。该宏包的基本命令参数如下:
@@ -226,7 +226,7 @@ LATEX（英语发音：/ˈleɪtɛk/ LAY-tek或英语发音：/ˈlɑːtɛk/ LAH-t
 显示效果如下：
 
 
-![441333626666.png](../_resources/441333626666.png)
+![](../_resources/441333626666.png)
 
 
 TIPS：
@@ -268,7 +268,7 @@ TIPS：
 显示效果如下：
 
 
-![441371125811.png](../_resources/441371125811.png)
+![](../_resources/441371125811.png)
 
 
 
@@ -293,7 +293,7 @@ TIPS：
 显示效果如下：
 
 
-![441385973299.png](../_resources/441385973299.png)
+![](../_resources/441385973299.png)
 
 
 \multicolumn 命令的第一个参数指明要横跨的列数，第二个参数指明对齐和边框线，第三个参数指明该单元格的内容。
@@ -341,7 +341,7 @@ TIPS：
 显示效果如下：
 
 
-![441415662572.png](../_resources/441415662572.png)
+![](../_resources/441415662572.png)
 
 
 
@@ -363,7 +363,7 @@ TIPS：
 显示效果如下：
 
 
-![441433785860.png](../_resources/441433785860.png)
+![](../_resources/441433785860.png)
 
 
 图片最好设置宽和高，让它按照我们的约定显示。图片的伸缩因子需要计算有些麻烦，如果将它设为页芯宽度\textwidth 的某个因子，如\includegraphics[width=0.9\textwidth]{picture/tupian.jpg}，图片将页芯宽度显示。
@@ -393,7 +393,7 @@ TIPS：
 显示效果如下：
 
 
-![441462536105.png](../_resources/441462536105.png)
+![](../_resources/441462536105.png)
 
 
 #### 9.插入公式
