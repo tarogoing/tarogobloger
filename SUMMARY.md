@@ -1,14 +1,12 @@
-
+# Summary
 一个老程序员的笔记散记，随笔将工作中遇到的问题查询，做了记录，现在整理出来。
 
+- [Linux]
 
+ - [Linux散记]
 
-## Linux
-
-### Linux散记
-
-1. [rsync同步目录](./linuxsummary/first.md)   
-1. [Linux内核regulator架构和编写](./linuxsummary/second.md)   
+  - [rsync同步目录](./linuxsummary/first.md)  
+  - [Linux内核regulator架构和编写](./linuxsummary/second.md)   
 1. [linux驱动程序之电源管理 之linux休眠与唤醒-(1)](./linuxsummary/fourth.md)   
 1. [linux驱动程序之电源管理 之linux休眠与唤醒-(2)](./linuxsummary/third.md)   
 1. [linux下如何将文件打包、压缩并分割成制定大小](./linuxsummary/fivth.md)   
