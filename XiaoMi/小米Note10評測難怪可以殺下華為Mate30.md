@@ -1,86 +1,127 @@
 # 小米Note 10 評測：難怪可以殺下華為Mate 30
 
-![f1dcdb2e8a41af32762b0cb8e37d8d69.jpg](../_resources/f1dcdb2e8a41af32762b0cb8e37d8d69.jpg)
+![](../_resources/f1dcdb2e8a41af32762b0cb8e37d8d69.jpg)
 
 小米前日在北京發佈了全球首部採用 1億像素的手機 小米CC9 Pro，而在昨日，小米在西班牙發佈了 小米Note 10。咦？兩者之間有什麼直接關係？聰明的讀者應該已經猜到，小米CC9 Pro 的國際版本就 小米Note 10，而且根據非官方消息 小米Note 10 將會在11月底或12月初就會在港台地方上市。今日 Sky 就為大家身先測試小米Note 10，讓大家預先知道 1億像素的小米Note 10 有如何的實力在 DxOMark 上與華為 Mate 30 Pro 平分最強拍攝手機冠軍寶座？！
 
-![1cf1b3892f1f208709dd7caaf8a39633.png](../_resources/1cf1b3892f1f208709dd7caaf8a39633.png)
-![4e81ffe6ae5e1185e3f7cbebad8feee0.jpg](../_resources/4e81ffe6ae5e1185e3f7cbebad8feee0.jpg)
+![](../_resources/1cf1b3892f1f208709dd7caaf8a39633.png)
+![](../_resources/4e81ffe6ae5e1185e3f7cbebad8feee0.jpg)
+
 6.47吋 3D 曲面 AMOLED 屏幕，19.5：9比例，400000：1 對比度。雙曲面屏幕的生產成本終於下降了。
-![0298d33b9dfa41dc9c9df4fc6cad470d.jpg](../_resources/0298d33b9dfa41dc9c9df4fc6cad470d.jpg)
+
+![](../_resources/0298d33b9dfa41dc9c9df4fc6cad470d.jpg)
+
 前置 3200萬像素鏡頭，f/2.0 光圈，1.6μm 4合1 超大像素尺寸。
-![8dc6d7e112945fabfc77d11c2f880c1d.jpg](../_resources/8dc6d7e112945fabfc77d11c2f880c1d.jpg)
+
+![](../_resources/8dc6d7e112945fabfc77d11c2f880c1d.jpg)
+
 下巴方面由於技術成熟，所以亦進一步縮短。
-![7fa2e64e6d919cdfab95abd431775519.jpg](../_resources/7fa2e64e6d919cdfab95abd431775519.jpg)
+![](../_resources/7fa2e64e6d919cdfab95abd431775519.jpg)
+
 機身右側比較「繁忙」，Power 鍵 及卡槽都集中在這邊。
-![f753968c4862d336acb37697a4b52cf6.jpg](../_resources/f753968c4862d336acb37697a4b52cf6.jpg)
+
+![](../_resources/f753968c4862d336acb37697a4b52cf6.jpg)
+
 機頂有紅外線的遙控發射元件，而機底就有 3.5mm 耳機插口、USB Type-C 插口及 喇叭，這個喇叭還是 1cc 特大音腔的。
-![fc2b10dcc352e3a5a8bf5d7a272997ca.jpg](../_resources/fc2b10dcc352e3a5a8bf5d7a272997ca.jpg)
+
+![](../_resources/fc2b10dcc352e3a5a8bf5d7a272997ca.jpg)
 
 機背上有 5個鏡頭，分別是1.08億像素主鏡頭+2000萬像素超廣角鏡頭+1200萬像素 2X 長焦鏡+500萬像素 5X 長焦鏡+200萬像素微距鏡頭。詳細的鏡頭表現就留意下面的拍攝測試。
 
-![997dfe28cf5127944e29c959f51d998a.jpg](../_resources/997dfe28cf5127944e29c959f51d998a.jpg)
+![](../_resources/997dfe28cf5127944e29c959f51d998a.jpg)
+
 由於小米Note 10 的主鏡頭 1/1.33吋 超大感光元件，所以亦令鏡頭部件更加凸出，如果不用保護套應該會很易刮花。
-![b413b1249404a2cf05fd97c7e1cfea65.jpg](../_resources/b413b1249404a2cf05fd97c7e1cfea65.jpg)
+
+![](../_resources/b413b1249404a2cf05fd97c7e1cfea65.jpg)
+
 機背同樣是非常流暢的 3D 曲面玻璃，反光效果非常耀眼。
-![5d1ecfc607241842a0f2590e7c73f7cf.jpg](../_resources/5d1ecfc607241842a0f2590e7c73f7cf.jpg)
-![53d3a13b0ca16cc32bb4a66c9fdf1e5c.png](../_resources/53d3a13b0ca16cc32bb4a66c9fdf1e5c.png)
-![60e155f30ca3ea61d5472c422f565af2.jpg](../_resources/60e155f30ca3ea61d5472c422f565af2.jpg)
+
+![](../_resources/5d1ecfc607241842a0f2590e7c73f7cf.jpg)
+![](../_resources/53d3a13b0ca16cc32bb4a66c9fdf1e5c.png)
+![](../_resources/60e155f30ca3ea61d5472c422f565af2.jpg)
 
 小米Note 10 採用的就是 Snapdragon 730G 處理器，市場使用同款處理器的手機其實並不多，最近推出的 OPPO Reno 2 就是同款。G系處理器最大的特點就是大大加強了圖像處理器的性能，Adreno 618 GPU 700MHz。我們看看安兔兔的號分結果，25.7萬分。跑分結果略差 OPPO Reno 2 一點點。
 
-![8f28049cfa501a77296a1396e00754e5.png](../_resources/8f28049cfa501a77296a1396e00754e5.png)
-![1c9ac3fea7a21be8ecd98677fcc496fb.jpg](../_resources/1c9ac3fea7a21be8ecd98677fcc496fb.jpg)
+![](../_resources/8f28049cfa501a77296a1396e00754e5.png)
+![](../_resources/1c9ac3fea7a21be8ecd98677fcc496fb.jpg)
 
 電池是今次小米Note 10 的重中之重，首先是電池升級至 5260mAh，電池加量。根據 Geekbench 4 的電池測試結果，其電池表現令人震驚，達到9900分以上。在一般使用的情況下，輕鬆用兩天都沒有問題，玩遊戲時長更可以達到6小時以上，可以說是非常可觀。
 
-![346f3430a228ec35d27384374d559b97.png](../_resources/346f3430a228ec35d27384374d559b97.png)
-![93d4029bc3bbd7182c3438ec209c4356.jpg](../_resources/93d4029bc3bbd7182c3438ec209c4356.jpg)
+![](../_resources/346f3430a228ec35d27384374d559b97.png)
+![](../_resources/93d4029bc3bbd7182c3438ec209c4356.jpg)
+
 說說系統方面，小米Note 10 是全球首部預載 MIUI 11 國際版的手機，以 Android 9 為基底。
-![92e8c882acf51dadb719f967d29b4eee.jpg](../_resources/92e8c882acf51dadb719f967d29b4eee.jpg)
+
+![](../_resources/92e8c882acf51dadb719f967d29b4eee.jpg)
+
 而 UI 方面，圖示以及使用排列都有更改。
-![8f5c8ec79717cde4539c40551042d40b.jpg](../_resources/8f5c8ec79717cde4539c40551042d40b.jpg)
+
+![](../_resources/8f5c8ec79717cde4539c40551042d40b.jpg)
+
 新系統已經有黑色 Dark mode，更省電更護眼。
-![d0b7a0f7acb183a8d0880e391d6d6735.png](../_resources/d0b7a0f7acb183a8d0880e391d6d6735.png)
+
+![](../_resources/d0b7a0f7acb183a8d0880e391d6d6735.png)
 
 鏡頭可以說是小米Note 10 的最強一環，能與一度是 DxOMark 王座的華為 Mate 30 Pro 媲美，他的實力應該不差，哪究竟有多強大？我們先看看鏡頭方面的技術參數。
 
-![22c76a58d900c2dce175ce3753c3ef92.jpg](../_resources/22c76a58d900c2dce175ce3753c3ef92.jpg)
+![](../_resources/22c76a58d900c2dce175ce3753c3ef92.jpg)
 
 主鏡頭為 108MP，即1.08億像素，為現時手機最高像素紀錄。1/1.33吋超大底鏡頭，1.6μm 4合1 超大像素尺寸，f/1.69光圈，支援 OIS 光學防手震。然後是 1200萬像素的 2X 長焦鏡，f/2.0光圈。再來一個 500萬像素 5X 光學變焦鏡頭，支援 10X 混合變焦，50X數碼變焦，最重要是這個鏡頭還支援 OIS 光學防手震。還有一個是 2000萬像素 117° 超廣角鏡頭(f/2.2光圈)，最後最後就是一個 200萬像素的微距鏡頭(1.5 cm)。這個鏡頭組合如同專業攝影名詞「天涯鏡」，即是一部小米Note 10 已經可以走天潤。下面我們來看看這絕強的拍攝體驗。
 
-![791c75597f0b67f508d1a2da0abdc515.jpg](../_resources/791c75597f0b67f508d1a2da0abdc515.jpg)
+![](../_resources/791c75597f0b67f508d1a2da0abdc515.jpg)
+
 1億像素究竟如何？大家看看這照片，在 1億像素可以拍攝出毛豆身上細細看毛，不需要微距，亦不需要其他附助，簡單直接拍攝就可以。
-![7729b7c19b955176ee0cdab0e5c75bc1.jpg](../_resources/7729b7c19b955176ee0cdab0e5c75bc1.jpg)
+
+![](../_resources/7729b7c19b955176ee0cdab0e5c75bc1.jpg)
 
 在測試中，筆者發現 1億像素這個主力鏡頭有一個奇怪的表現，首先如果不啟動 108MP拍攝模式時，拍攝出來的照片為 2700萬像素，這個我們理解的。我們一般情況下會認為在同一鏡頭拍攝，出來即使照片尺寸不同，細節的多寡之外，原來整張照片的質素都有明顯分別，這張在同一環境下拍攝的照片可以直接見到，右邊同 108MP 拍攝的照片由感光度、飽和度、色溫上都比普通拍攝下的主鏡頭強上太多。筆者分析認為即使在同一鏡頭下(硬件)，拍攝時的軟件演算可以是完全不一樣，如果拍攝時不考慮照片容量的情況下，大家可以直接考慮用 108MP 拍攝，效果會好太多。
 
 說了這是「天涯鏡」手機，就是可以應對大部份的拍攝環境，究竟如何在手機上拍攝出超越你平時所拍攝的照片？
 
 超廣角，拍攝全景畫面，氣勢磅礡。
-![27c406f058c8f0dfc678c626075cf936.jpg](../_resources/27c406f058c8f0dfc678c626075cf936.jpg)
+
+![](../_resources/27c406f058c8f0dfc678c626075cf936.jpg)
+
 1X 主鏡頭拍攝，重點收入相內。
-![90354cd53a0b0fa58bc50010a71d6c6f.jpg](../_resources/90354cd53a0b0fa58bc50010a71d6c6f.jpg)
+
+![](../_resources/90354cd53a0b0fa58bc50010a71d6c6f.jpg)
+
 2X 拉近主體，收入更多細節。
-![26d6f7b8ab4515cfff5c6ccc4262d3a8.jpg](../_resources/26d6f7b8ab4515cfff5c6ccc4262d3a8.jpg)
+
+![](../_resources/26d6f7b8ab4515cfff5c6ccc4262d3a8.jpg)
+
 5X 基本已經可以把遠處影像收相內，大部分拍攝情況下都已經足夠面對，而且小米更細心地在 5X 這個鏡頭加入了 OIS 防手震，拎拍攝遠景時有更好的穩定性。
-![53a67a3880da06bf211cdef5a223b5a3.jpg](../_resources/53a67a3880da06bf211cdef5a223b5a3.jpg)
+
+![](../_resources/53a67a3880da06bf211cdef5a223b5a3.jpg)
+
 如果你還嫌不夠，小米Note 10 還提供了 50X 數碼變焦這極端的取景。
 大家可以見到一部小米Note 10 幾乎可以應對大部份的拍攝情況。有人說，那變焦，如果走近一點拍攝不就可以了嗎？不對的，有些東西，走近了就拍不到。
-![3e6aa105a1910c64fb544dafd03c00d8.jpg](../_resources/3e6aa105a1910c64fb544dafd03c00d8.jpg)
+
+![](../_resources/3e6aa105a1910c64fb544dafd03c00d8.jpg)
+
 這是1X 拍攝的照片，已經不取景不錯了吧？不過如果你對攝影構圖有要求，這樣是不夠的。我們試試同一位置換一個焦距？
-![35eb860cd67ffda3057d929c83af6efa.jpg](../_resources/35eb860cd67ffda3057d929c83af6efa.jpg)
+
+![](../_resources/35eb860cd67ffda3057d929c83af6efa.jpg)
+
 但是如果你有 5X 的變焦，你在同一位置就可以拍出這樣的照片，整個構圖就更好。
 再來一個例子。
-![851638857266d251677744b38cf226f1.jpg](../_resources/851638857266d251677744b38cf226f1.jpg)
+
+![](../_resources/851638857266d251677744b38cf226f1.jpg)
+
 大家在這張照片上看到了什麼？是否沒有為意一個不起眼的東西？
-![0326fa86cc1ac36867302d8678206fd3.jpg](../_resources/0326fa86cc1ac36867302d8678206fd3.jpg)
+
+![](../_resources/0326fa86cc1ac36867302d8678206fd3.jpg)
+
 其實在城樓頂上有一隻鳥，如果沒有 50X 數碼變焦，你是拍不到它的存在。
-![55a993b225d4f67f20825ab5897bfbe3.jpg](../_resources/55a993b225d4f67f20825ab5897bfbe3.jpg)
+
+![](../_resources/55a993b225d4f67f20825ab5897bfbe3.jpg)
 
 在小米9 的夜拍能力已經大大增強，而來到了小米Note 10，配合1/1.33吋特大的 CMOS，夜拍吸光量大大提高，令夜拍的能力再次突飛猛進，而且筆者個人感覺這夜拍能力已經完全超越了華為的 Mate 30 Pro。
 
-![df72d1f48adacc9c572b6e86c934d896.jpg](../_resources/df72d1f48adacc9c572b6e86c934d896.jpg)
+![](../_resources/df72d1f48adacc9c572b6e86c934d896.jpg)
+
 拍攝食物方面在 AI 演算輔助下亦強大得多。
-![10c051009e6cd440eccf41017a99e4b3.jpg](../_resources/10c051009e6cd440eccf41017a99e4b3.jpg)
+
+![](../_resources/10c051009e6cd440eccf41017a99e4b3.jpg)
+
 即使在低光下亦可以無明顯雜訊，色彩表現理想，而且銳利十足。

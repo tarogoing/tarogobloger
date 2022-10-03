@@ -69,16 +69,5 @@
 
 [https://youtu.be/K1CO9kPvAUA](https://youtu.be/K1CO9kPvAUA)
 
-**怎么说呢？不管有用没，还是想加上这句**  
-**[老郭种树](https://guozh.net/)原创，转载请加上[谷歌 Chrome 插件神器推荐，这 9 个拓展好用到逆天](https://guozh.net/google-chrome-extensions-1/)**
-
-<img width="700" height="386" src="../_resources/d5CP2qs7EcFTkXh_8e1a469b60f44ed28249c5eebea01372.png"/>
 
   
-
-### 向你推荐:
-
-- [分享几款常用的 Chrome 插件 YouTube 、哔哩哔哩](https://guozh.net/chrome-extensions-for-youtube/ "分享几款常用的 Chrome 插件 YouTube 、哔哩哔哩")
-- [Chrome 插件推荐之程序员](https://guozh.net/chrome-extensions-for-coder/ "Chrome 插件推荐之程序员")
-- [自媒体人用的 Chrome 插件神器](https://guozh.net/chrome-extension-for-wemedia/ "自媒体人用的 Chrome 插件神器")
-- [Chrome 插件卸载后，还在生效，删除干净的两个步骤](https://guozh.net/chrome-delete-uninstall-complete/ "Chrome 插件卸载后，还在生效，删除干净的两个步骤")
