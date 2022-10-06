@@ -212,7 +212,7 @@
     * [linPhone 回声消除](./VOIP-Client/linPhone回声消除.md)
     * [linPhone-android 编译过程详解](./VOIP-Client/linPhone-android编译过程详解.md)
     * [linPhone-android在ubuntu上编译](./VOIP-Client/linPhone-android在ubuntu上编译.md)
-    * [linPhone-android编译(ubuntu)](./VOIP-Client/linPhone-android编译(ubuntu)
+    * [linPhone-android编译](./VOIP-Client/linPhone-android编译ubuntu.md)
     * [linPhone建立自己的仓库](./VOIP-Client/linPhone建立自己的仓库.md)
     * [linPhone电话特性](./VOIP-Client/linPhone电话特性.md)
     * [linPhone研究](./VOIP-Client/linPhone研究.md)
@@ -232,7 +232,7 @@
     * [FreeSwitch中的会议功能](./VOIP-Server/FreeSwitch中的会议功能.md)
     * [mjSip学习笔记](./VOIP-Server/mjSip学习笔记.md)
     * [SIPP压力测试最好的工具,第一章](./VOIP-Server/SIPP压力测试最好的工具第一章.md)
-    * [sipX(sipXecs)简介](./VOIP-Server/sipX(sipXecs)
+    * [sipX（sipXecs）简介](./VOIP-Server/sipXsipXecs简介.md)
     * [sipXecs及其它浅谈](./VOIP-Server/sipXecs及其它浅谈.md)
     * [Ubuntu单网卡设置安装双interface和Stunserver的方法](./VOIP-Server/Ubuntu单网卡设置安装双interface和Stunserver的方法.md)
 * [WebRTC]
