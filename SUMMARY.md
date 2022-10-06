@@ -159,7 +159,7 @@
     * [Joplin跨平台开源免费Markdown笔记应用替代印象笔记](./MarkDownLaTeX/Joplin跨平台开源免费Markdown笔记应用替代印象笔记.md)
     * [你是不是也把印象笔记用成了百度云](./MarkDownLaTeX/你是不是也把印象笔记用成了百度云.md)
     * [印象笔记从入门到精通10个最常见用法](./MarkDownLaTeX/印象笔记从入门到精通10个最常见用法.md)
-    * [竞品分析报告有道云笔记和印象笔记](./MarkDownLaTeX/竞品分析报告有道云笔记和印象笔记.md)
+[comment]:    * [竞品分析报告有道云笔记和印象笔记](./MarkDownLaTeX/竞品分析报告有道云笔记和印象笔记.md)
 * [AndroidStudio]
     * [使用Gradle构建Android项目](./AndroidStudio/使用Gradle构建Android项目.md)
     * [修改android studio中的avd sdk路径、avd sdk找不到的解决方案](./AndroidStudio/修改androidstudio中的avdsdk路径avdsdk找不到的解决方案.md)
